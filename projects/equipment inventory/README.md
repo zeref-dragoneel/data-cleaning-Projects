@@ -1,4 +1,4 @@
-# Project Summary: Montgomery Fleet Equipment Inventory Data Cleaning
+# Project Summary: Montgomery Fleet Equipment Inventory Data enhancement
 
 ## Objective
 This project involved converting a CSV file named `Montgomery_Fleet_Equipment_Inventory.csv` to an Excel file, resulting in `Montgomery_Fleet_Equipment_Inventory.xlsx`.
